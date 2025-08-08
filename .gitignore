@@ -135,6 +135,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+mlProject.egg-info
 .env
 .envrc
 .venv
